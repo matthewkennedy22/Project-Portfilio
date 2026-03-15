@@ -49,7 +49,7 @@ Tech Stack
 Python, Qdrant, SentenceTransformers, NLTK, Ollama, Gemma 3, Vector Search
 
 Repo
-https://github.com/matthewkennedy22/RAG-System-Gemma3-IMDB
+https://github.com/matthewkennedy22/RAG-System-Gemma3b-IMDB
 
 ---
 
