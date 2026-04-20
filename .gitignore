@@ -1,0 +1,12 @@
+# Default: ignore everything at repo root
+*
+
+# Keep git metadata and this ignore file
+!.gitignore
+
+# Keep portfolio entry point
+!README.md
+
+# Keep Power BI showcase project
+!Power-BI-Adventure-Works-Dashboard/
+!Power-BI-Adventure-Works-Dashboard/**
