@@ -1,6 +1,6 @@
 # Matthew Kennedy
 
-MS Business Analytics | Data Analytics | Machine Learning | Infrastructure Analytics
+MS Business Analytics | Data Analytics | Machine Learning | Business Intelligence
 
 Collection of analytics systems that solve real-world infrastructure, operational, and data problems. These projects combine data engineering, statistical modeling, machine learning, and interactive applications to turn complex data into actionable insights.
 
