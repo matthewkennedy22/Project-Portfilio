@@ -136,7 +136,11 @@ Python | Pandas | NumPy | Matplotlib | SQLite | scikit-learn | Jupyter
 
 End-to-end practice project on the [Brazilian E-Commerce (Olist)](https://www.kaggle.com/datasets/olist/brazilian-ecommerce) dataset, modeled as a consulting-style analysis: **cleaning and joining** multiple CSVs (with **SQLite** for table organization and merges), **feature-style metrics** such as **customer LTV**, **delivery performance**, **RFM**-style customer scoring, and **churn**-related signals, **EDA** with Matplotlib, and **ML extensions** including **KMeans**-based **customer segmentation** and a **logistic regression** look at **delivery delay** classification.
 
-The notebook in this repo is the same artifact published on Kaggle (Kaggle-friendly imports: **Matplotlib** only for plotting, no Seaborn).
+This project is preserved in its **original Kaggle notebook format** so viewers can see the exact source workflow as published.
+
+Original Project Location
+
+https://www.kaggle.com/code/mattkennedy22/olist-e-commerce-business-insights-project
 
 Tech Stack
 
@@ -146,9 +150,9 @@ Project Folder
 
 `Olist-E-Commerce-Business-Insights`
 
-Kaggle
+Kaggle Dataset
 
-https://www.kaggle.com/code/mattkennedy22/olist-e-commerce-business-insights-project
+https://www.kaggle.com/datasets/olist/brazilian-ecommerce
 
 ---
 

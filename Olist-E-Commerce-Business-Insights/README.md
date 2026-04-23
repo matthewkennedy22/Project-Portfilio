@@ -59,6 +59,12 @@ Python, pandas, NumPy, Matplotlib, SQLite, scikit-learn, Jupyter
 
 - `notebooks/olist-e-commerce-business-insights-project.ipynb`
 
+## Original Project Location
+
+This notebook preserves the original Kaggle context and workflow.
+
+- Original Kaggle project: [Olist E-Commerce Business Insights Project](https://www.kaggle.com/code/mattkennedy22/olist-e-commerce-business-insights-project)
+
 ## Dataset
 
 - [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olist/brazilian-ecommerce)
