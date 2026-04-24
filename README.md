@@ -1,4 +1,5 @@
 # Matthew Kennedy
+<img width="308" height="273" alt="Screenshot 2026-04-24 at 2 38 08 PM" src="https://github.com/user-attachments/assets/0ee36284-e689-4eba-be58-bfbecdb77d6c" />
 
 MS Business Analytics | Data Analytics | Machine Learning | Business Intelligence
 
